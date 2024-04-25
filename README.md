@@ -6,9 +6,16 @@ You can use it for generating qr code for any link or any secrete, text message 
   
 (because i have not hosted it yet so follow me 👇🏻)  
   
+*requirement to use locally*: "You should have installed node.js in your computer"
+
 **step 1** : its very easy just fork and download all code to your local machine   
 **step 2** : open the Folder / directoy where you downloaded the project in Your IDE (vs code / atom or what ever you prefer).  
-**step 2** : Run this command in terminal: node index.js. (make sure your in the same directory where you downloaded the project while running this command.)  
+**step 2** : Run this commands in terminal: (make sure your in the same directory where you downloaded the project while running this commands.
+             run the first command when its completed then run the second )
+
+              npm install
+              node index.js.   
+                
 **step 2** : if you did all above steps correctly you see an output in the terminal that says **server listning on port: 3000**  
 **step 3** : now without closing the termnial open any browser you use and head over to : http://localhost:3000/  
 **step 4** : As you can see you use the Qr code generator enter what text you want to convert into a qr it will do that for you. use it as many time you want.  
