@@ -1,0 +1,24 @@
+body{
+  background: #dbd0d0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.footer-elements{
+  margin: 25vh 0 0 0;
+}
+.copyright p{
+    color: #011F3F;
+    font-size: 1rem;
+
+    text-align: center;
+  }
+  
+  .links{
+    display: flex;
+   justify-content: center;
+   gap: 5vw;
+  }
+  
+  .links img:hover{
+    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.5);
+  }  

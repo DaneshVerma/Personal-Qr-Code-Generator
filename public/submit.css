@@ -1,0 +1,21 @@
+body{
+    background-color: #dbd0d0;
+   text-align: center;
+   margin: 25vh;
+}
+
+button{
+    border: none;
+    background-color: rgb(14, 99, 2);
+    border-radius: 5%;
+    padding: 10px 20px;
+}
+#generate-new{
+    background-color: rgb(0, 140, 255);
+}
+
+button a{
+
+    text-decoration: none;
+    color: rgb(196, 238, 196);
+}

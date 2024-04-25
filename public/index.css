@@ -1,0 +1,34 @@
+.container{
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    gap:2vh;
+    align-items: center;
+}
+.form{
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#input-filed{
+    border: 0px;
+    height: 5vh;
+    width: 25vw;
+    border-radius: 2%;
+}
+
+#btn-submit{
+    cursor: pointer;
+    border: solid 1px red;
+    color: black;
+    background-color: rgb(241, 59, 59);
+    padding: 10px 20px;
+    border-radius: 10%;
+    font-weight: 800;
+}
