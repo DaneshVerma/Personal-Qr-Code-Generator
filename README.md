@@ -10,8 +10,8 @@ You can use it for generating qr code for any link or any secrete, text message 
 
 **step 1** : its very easy just fork and download all code to your local machine   
 **step 2** : open the Folder / directoy where you downloaded the project in Your IDE (vs code / atom or what ever you prefer).  
-**step 2** : Run this commands in terminal: (make sure your in the same directory where you downloaded the project while running this commands.
-             run the first command when its completed then run the second )
+**step 2** : Run this commands in terminal:  
+(make sure your in the same directory where you downloaded the project while running this commands. run the first command when its completed then run the second )
 
               npm install
   (this will install the required npm pakages)
