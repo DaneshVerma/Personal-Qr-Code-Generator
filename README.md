@@ -18,7 +18,7 @@ You can use it for generating qr code for any link or any secrete, text message 
       
               node index.js.   
 
-  *this command will start the local server *
+  *this command will start the local server*
                 
 **step 2** : if you did all above steps correctly you see an output in the terminal that says **server listning on port: 3000**  
 **step 3** : now without closing the termnial open any browser you use and head over to : http://localhost:3000/  
