@@ -1,7 +1,6 @@
 body{
     background-color: #dbd0d0;
    text-align: center;
-   margin: 25vh;
 }
 
 button{
@@ -12,6 +11,9 @@ button{
 }
 #generate-new{
     background-color: rgb(0, 140, 255);
+}
+.container{
+    margin: 38.3vh 0 0 0;
 }
 
 button a{
